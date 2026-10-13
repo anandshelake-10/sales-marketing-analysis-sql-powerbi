@@ -105,4 +105,4 @@ Student names and addresses are masked for privacy.
 1. Open MySQL Workbench and import the two CSV files from `data/` using the
    Table Data Import Wizard, naming the tables `ADMISSIONDATABASE` and
    `ENQUIREDATABASE` (the SQL script renames them).
-2. Run `sql/NMD_OJT.sql` step by step.
+2. Run `sql/OJT_project.sql` step by step.
